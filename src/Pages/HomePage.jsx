@@ -2,7 +2,6 @@ import React from "react";
 import Filters from "../Components/Filters";
 import { Box, Flex } from "@chakra-ui/react";
 import MusicRecords from "./MusicRecords";
-import Navbar from "../Components/Navbar";
 
 const HomePage = () => {
   return (
